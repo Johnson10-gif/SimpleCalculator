@@ -78,8 +78,8 @@ By developing this project, the following skills are gained:
 ##  How to Run the Project
 
 1. Open **Visual Studio**
-2. Click **Open a project or solution**
-3. Select the calculator project folder
+2. Click **Clone repository**
+3. paste this url
 4. Click **Start (Run)** 
 5. The calculator window will appear
 
