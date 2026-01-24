@@ -79,7 +79,7 @@ By developing this project, the following skills are gained:
 
 1. Open **Visual Studio**
 2. Click **Clone repository**
-3. paste this url
+3. paste this url "https://github.com/Johnson10-gif/SimpleCalculator.git"
 4. Click **Start (Run)** 
 5. The calculator window will appear
 
